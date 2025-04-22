@@ -1,0 +1,10 @@
+com/dg/curriculo/repository/CurriculoRepository.class
+com/dg/curriculo/repository/ExperienciaRepository.class
+com/dg/curriculo/repository/PessoaRepository.class
+com/dg/curriculo/controller/PessoaController.class
+com/dg/curriculo/CurriculoApplication.class
+com/dg/curriculo/model/Curriculo.class
+com/dg/curriculo/model/Formacao.class
+com/dg/curriculo/model/Pessoa.class
+com/dg/curriculo/model/Experiencia.class
+com/dg/curriculo/repository/FormacaoRepository.class

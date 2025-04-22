@@ -1,0 +1,10 @@
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/CurriculoApplication.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/controller/PessoaController.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/model/Curriculo.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/model/Experiencia.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/model/Formacao.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/model/Pessoa.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/repository/CurriculoRepository.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/repository/ExperienciaRepository.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/repository/FormacaoRepository.java
+/workspaces/curriculo-api/src/main/java/com/dg/curriculo/repository/PessoaRepository.java
